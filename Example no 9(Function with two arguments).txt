@@ -1,9 +1,5 @@
 def add_numbers(num1, num2):
-    
-       sum = num1 + num2
+    sum = num1 + num2
     print("Sum:", sum)
-    
-
-       #Writing add_numbers(num1,num2) or add_numbers(num1, num2), both are correct. 
-
+#Writing add_numbers(num1,num2) or add_numbers(num1, num2), both are correct.
 add_numbers(5, 2)
