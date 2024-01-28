@@ -1,7 +1,5 @@
 def student(firstname, lastname):
-   
-              print(firstname, lastname)
-
+    print(firstname, lastname)
+#If you write student('Ben Shaolam', "Ishmael"), then the output would be: Ben Shaolam Ishmael. But if you first specify which value belongs to which variable, for instance, write student(lastname = 'Ben Shaolam', firstname = "Ishmael"), output would be: Ishamel Ben Shaolam.
 student(firstname = 'Yakub', lastname = "Ovediya" )
-
-student(lastname = 'Ben Shaolam', firstname = "Ishmael" )
+student(lastname = 'Ben Shaolam', firstname = "Ishmael")
